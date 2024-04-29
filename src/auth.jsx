@@ -19,7 +19,7 @@ const auth = () => {
         <h1
           className={`${styles.flexCenter} text-normal font-semibold mt-7 ml-2 text-[20px]`}
         >
-          AICTE
+          
         </h1>
       </div>
       <div className="absolute flex-row flex flex-1 items-center right-0">
@@ -36,7 +36,7 @@ const auth = () => {
       </div>
       <div>
         <h5 className="absolute text-[100px] top-[15%] left-[6%] text-[#8d4d13] font-semibold ">
-          WebConnect
+          WeConnect
         </h5>
 
         <p className=" absolute max-w-[40%] top-[33%] left-[6%] text-[30px] font-semibold sidebar-bottom">
